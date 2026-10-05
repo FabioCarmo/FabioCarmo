@@ -1,7 +1,7 @@
 ## 🚀 Sobre mim
-Cursando Engenharia de Software 3º Periodo.\
-Sou programador Back-End com C# e Python.\
-Especializado em desenvolvimento web principalmente com AspNet.
+Cursando Engenharia de Software 4º Periodo.\
+Sou programador Back-End com Java e Python.\
+Especializado em desenvolvimento web.
 
 
 ## 🛠 Habilidades
