@@ -5,9 +5,9 @@ Especializado em desenvolvimento web principalmente com AspNet.
 
 
 ## 🛠 Habilidades
-- C#
+- Java
 - Python
-- FRAMEWORKS: web(Django e AspNet), Dotnet
+- FRAMEWORKS: web(Django e AspNet), Spring Framework
 - Sql
 - SGBD: SqlServer, MySql
 - CLOUD: Azure
